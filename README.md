@@ -6,10 +6,10 @@
 
 In Iron Skies you play as a pilot of the freedom airforce, a joint task force created to repel the attacking NeoGermans. </P>
 
-<h2> Screenshot <h2>
+<h2> Screenshot </h2>
 
 <img src="assets/IronSkiesmock.jpg" >
 
-
+<h3> Development </h3>
 <p> Iron skies utilizes java libraries such as AWT, Javax, and more to display graphics, sounds, and input. 
 The engine was designed purely from Java and runs in a browser utilizing the applet library. <p>
